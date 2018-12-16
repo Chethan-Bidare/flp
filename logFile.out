@@ -1,0 +1,226 @@
+2018-12-12 15:24:26 INFO  TC001_VerifyLoginFunctionality:22 - Initializing Setup
+2018-12-12 15:24:27 INFO  LoginPage:46 -  user Mobile Number entered:8147519664
+2018-12-12 15:24:27 INFO  LoginPage:56 - User Mobile Number entered:8147519664
+2018-12-12 15:24:27 INFO  LoginPage:51 -  Password entered :bidare123
+2018-12-12 15:24:27 INFO  LoginPage:58 - Password entered :bidare123
+2018-12-12 15:24:27 INFO  LoginPage:60 - Clicked on Login Button
+2018-12-12 16:12:52 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:12:53 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 16:12:53 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 16:12:53 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 16:12:56 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 16:14:23 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:14:56 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:14:57 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 16:14:57 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 16:14:57 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 16:15:00 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 16:15:45 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:15:46 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 16:15:46 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 16:15:46 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 16:15:53 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 16:16:29 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:16:29 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 16:16:29 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 16:16:30 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 16:16:32 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 16:44:18 INFO  TestBase:18 - Initializing Setup
+2018-12-12 16:44:19 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 16:44:19 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 16:44:19 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 16:44:22 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:04:54 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:04:55 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:04:55 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:04:55 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:04:58 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:04:59 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:05:00 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:05:01 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:05:01 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:05:02 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:39 INFO  TestBase:22 - Initializing Setup
+2018-12-12 17:12:40 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:12:40 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:12:40 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:12:43 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:45 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:45 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:46 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:46 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:47 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:47 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:48 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:12:48 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:13:37 INFO  TestBase:22 - Initializing Setup
+2018-12-12 17:13:38 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:13:38 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:13:38 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:13:41 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:13:42 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:13:43 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:13:43 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:19:59 INFO  TestBase:22 - Initializing Setup
+2018-12-12 17:19:59 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:20:00 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:20:00 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:20:02 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:20:04 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:20:04 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:20:05 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:20:19 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:20:29 INFO  HomePage:57 - clicked on User Menu
+2018-12-12 17:27:14 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:27:15 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:27:15 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:27:15 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:27:15 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:27:34 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:27:34 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:27:39 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:27:41 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:27:44 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:29:15 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:29:16 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:29:16 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:29:17 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:29:20 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:29:21 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:29:21 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:29:22 INFO  HomePage:60 - clicked on User Menu
+2018-12-12 17:35:37 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:35:38 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:35:38 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:35:38 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:37:47 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:37:48 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:37:48 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:37:48 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:43:07 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:43:08 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:43:08 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:43:08 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 17:43:11 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 17:43:15 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 17:43:17 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 17:43:20 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 17:59:55 INFO  TestBase:21 - Initializing Setup
+2018-12-12 17:59:56 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 17:59:56 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 17:59:56 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:00:01 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:04 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:07 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:24 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:27 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:34 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:37 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:39 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:00:42 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:00 INFO  TestBase:21 - Initializing Setup
+2018-12-12 18:05:01 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:05:01 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:05:01 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:05:04 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:07 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:10 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:12 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:15 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:17 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:20 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:23 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:05:25 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:01 INFO  TestBase:21 - Initializing Setup
+2018-12-12 18:20:02 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:20:02 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:20:02 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:20:06 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:09 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:12 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:15 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:17 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:20 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:22 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:25 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:20:28 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:25:35 INFO  TestBase:21 - Initializing Setup
+2018-12-12 18:25:36 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:25:36 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:25:36 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:25:40 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:25:43 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:25:46 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:38 INFO  TestBase:21 - Initializing Setup
+2018-12-12 18:26:38 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:26:39 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:26:39 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:26:42 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:45 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:48 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:50 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:53 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:55 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:26:58 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:27:01 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:27:03 INFO  HomePage:59 - clicked on User Menu
+2018-12-12 18:56:03 INFO  TestBase:18 - Initializing Setup
+2018-12-12 18:56:03 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:56:04 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:56:04 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 18:57:39 INFO  TestBase:18 - Initializing Setup
+2018-12-12 18:57:39 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 18:57:40 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 18:57:40 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 19:00:40 INFO  TestBase:18 - Initializing Setup
+2018-12-12 19:00:40 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 19:00:41 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 19:00:41 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 19:11:18 INFO  TestBase:18 - Initializing Setup
+2018-12-12 19:11:18 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 19:11:18 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 19:11:19 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:02:17 INFO  TestBase:18 - Initializing Setup
+2018-12-12 20:02:17 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:02:17 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:02:17 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:05:11 INFO  TestBase:18 - Initializing Setup
+2018-12-12 20:05:11 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:05:12 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:05:12 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:17:47 INFO  TC002_VerifyMoreOptions:23 - Initializing Setup
+2018-12-12 20:17:47 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:17:47 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:17:48 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:18:40 INFO  TC002_VerifyMoreOptions:23 - Initializing Setup
+2018-12-12 20:18:41 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:18:41 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:18:41 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:20:01 INFO  TC002_VerifyMoreOptions:23 - Initializing Setup
+2018-12-12 20:20:01 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:20:02 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:20:02 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:22:58 INFO  TC002_VerifyMoreOptions:23 - Initializing Setup
+2018-12-12 20:22:59 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:22:59 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:22:59 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 20:59:46 INFO  TestBase:19 - Initializing Setup
+2018-12-12 20:59:46 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 20:59:46 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 20:59:47 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 21:00:34 INFO  TestBase:19 - Initializing Setup
+2018-12-12 21:00:35 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 21:00:35 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 21:00:35 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 21:01:08 INFO  TestBase:19 - Initializing Setup
+2018-12-12 21:01:09 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 21:01:09 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 21:01:09 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 21:02:33 INFO  TestBase:19 - Initializing Setup
+2018-12-12 21:02:34 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 21:02:34 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 21:02:34 INFO  LoginPage:59 - Clicked on Login Button
+2018-12-12 21:47:47 INFO  TestBase:19 - Initializing Setup
+2018-12-12 21:47:48 INFO  LoginPage:55 -  user Mobile Number entered:8147519664
+2018-12-12 21:47:48 INFO  LoginPage:57 - Password entered :bidare123
+2018-12-12 21:47:48 INFO  LoginPage:59 - Clicked on Login Button
